@@ -1,0 +1,76 @@
+.form-style{
+    margin-top: 30px;
+    margin-right: 450px;
+    margin-left: 320px;
+    background-color:rgba(6, 171, 248, 0.452);
+    color: rgb(0, 4, 8);
+}
+.submit-style{
+    background-color: rgb(36, 217, 60);
+    color: aliceblue;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 70px;
+}
+
+.cancel-style{
+    background-color: rgb(233, 44, 27);
+    color: aliceblue;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+}
+
+#top-element{
+    padding-top: 20px;
+}
+
+.form-control{
+ margin-top: 20px;
+ margin-bottom: 10px;
+ margin-left: 20px;
+ margin-right: 20px;
+ font-size: 20px;
+}
+.element-control{
+    margin-left: 40px;
+    padding-right: 20px;
+}
+#name{
+    color:red;
+    text-align: center;
+}
+#phone{
+    color:red;
+    text-align: center;
+}
+#address{
+    color:red;
+    text-align: center;
+}
+#email{
+    color:red;
+    text-align: center;
+}
+#heading{
+    color:rgb(190, 71, 52);
+    text-align: center;
+    font-size: 30px ;
+    font-style: normal;
+    
+}
+#btn-update{
+    background-color: rgb(126, 228, 23);
+}
+
+#btn-clear{
+    background-color:rgb(252, 21, 68) ;
+}
+
+#font-control{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(190, 71, 52);
+}

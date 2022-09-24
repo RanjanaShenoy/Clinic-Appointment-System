@@ -1,0 +1,59 @@
+tr:nth-child(even){
+    background-color: rgb(214, 210, 210);
+  
+    
+}
+tr:nth-child(odd){
+    background-color: rgb(180, 210, 245);
+
+    
+}
+.table-style
+{
+width: 900px;
+margin-right: 20px;
+margin-top: 50px;
+margin-left: 200px;
+background-color: rgb(255, 255, 255);
+border: 2px solid rgb(255, 255, 255);
+color : rgb(0, 0, 0);
+text-align: center;
+padding:10px;
+}
+
+.button-style-1{
+    width: 150px;
+    background-color: rgb(245, 240, 244);
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    font-size: 14px;
+    color:rgb(0, 0, 0)
+
+}
+
+.appoint-table-style
+{
+width: 900px;
+margin-right: 10px;
+margin-top: 50px;
+margin-left: 150px;
+background-color: rgb(255, 255, 255);
+border: 2px solid rgb(255, 255, 255);
+color : rgb(0, 0, 0);
+text-align: center;
+padding:100px;
+}
+
+#edit-button{
+    background-color: rgb(27, 200, 27);
+}
+
+#delete-button{
+    background-color: rgb(251, 61, 61);
+}
+
+#item-padding{
+    padding: 20px;
+}
